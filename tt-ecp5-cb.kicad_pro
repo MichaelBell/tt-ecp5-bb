@@ -127,7 +127,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.508,
         "min_text_thickness": 0.0508,
-        "min_through_hole_diameter": 0.2032,
+        "min_through_hole_diameter": 0.3048,
         "min_track_width": 0.1016,
         "min_via_annular_width": 0.0762,
         "min_via_diameter": 0.3556,
@@ -218,8 +218,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.3556,
-          "drill": 0.2032
+          "diameter": 0.4572,
+          "drill": 0.3048
         },
         {
           "diameter": 0.508,
